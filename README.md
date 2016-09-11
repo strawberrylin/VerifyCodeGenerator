@@ -13,4 +13,4 @@ There we get a .jar to do this job.
 
 ---------------
 
-Here some pictures under the /VerifyCodeGenerator which show the result.
+Here  are some pictures under the /VerifyCodeGenerator which show the result.
