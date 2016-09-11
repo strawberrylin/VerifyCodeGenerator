@@ -12,3 +12,5 @@ in order to avoid the Malicious register or login,we can generate a Dynamic veri
 There we get a .jar to do this job.
 
 ---------------
+
+Here some pictures under the /VerifyCodeGenerator which show the result.
